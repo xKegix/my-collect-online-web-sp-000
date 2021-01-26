@@ -1,5 +1,5 @@
 
-def my_collection(name)
+def my_collect(name)
   i = 0
   collection = []
   while i < name.length
